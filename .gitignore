@@ -1,0 +1,44 @@
+# Corona / Solar2D build artifacts
+*.apk
+*.app
+*.ipa
+*.dSYM
+*.luac
+*.exe
+
+# Corona simulator files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.tmp
+
+# Corona Live Builds
+build/
+output/
+.cache/
+logs/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# macOS system files
+Icon?
+._*
+
+# Android build artifacts (if using plugins like Corona Native)
+android/build/
+android/app/build/
+.gradle/
+*.iml
+
+# iOS Xcode artifacts (if using Corona Native)
+ios/build/
+ios/*.xcodeproj/
+ios/*.xcworkspace/
+Pods/
+Podfile.lock
+
+# General IDE/project noise
+*.log
