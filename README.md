@@ -1,1 +1,1 @@
-# simon_game_corona_2D/
+# simon_game_corona_2D
